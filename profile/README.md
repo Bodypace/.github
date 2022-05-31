@@ -55,7 +55,7 @@ All code is here on GitHub, this is where other things are:
  * Tech stack: React, React Native, Expo, Sequelize, Docker
  * CircleCI:
  * Expo:
- * Postman: https://github.com/bodypace
+ * Postman: https://postman.com/bodypace
  * Azure: 
  * DockerHub:
  * UI/UX Design: https://www.figma.com/file/8MHd4BSbKtJgd2iLiF6zd1/Main-Design?node-id=0%3A1
