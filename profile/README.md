@@ -28,7 +28,7 @@ As much data as possible, as secure as possible, as clear and intuitive as possi
 
 For everything mention we want to monitor costs, both money and time/effort, as well as different progress measures.
 
-We should both collect everything that we can about user health and use all the latest medicine knowledge to analize it.
+We should both collect everything that we can about user health and use all the latest medicine knowledge to analyze it.
 
 This should be the place in which you connect all your health information gathering devices and software, where you enter all your health related data, where you control how that data should be stored and with who shared, where you or somobody else or algoritm analyses it.
 
@@ -54,6 +54,8 @@ All code is here on GitHub, this is where other things are:
  * Discord: soon
  * Tech stack: React, React Native, Expo, Sequelize, Docker
  * CircleCI:
+ * Expo:
+ * Postman: https://github.com/bodypace
  * Azure: 
  * DockerHub:
  * UI/UX Design: https://www.figma.com/file/8MHd4BSbKtJgd2iLiF6zd1/Main-Design?node-id=0%3A1
