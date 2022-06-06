@@ -52,6 +52,7 @@ All code is here on GitHub, this is where other things are:
  * Tasks: https://github.com/orgs/Bodypace/projects/1
  * Docs: https://github.com/Bodypace/Docs
  * Discord: soon
+ * Twitch: https://www.twitch.tv/ssurrealism
  * Tech stack: React, React Native, Expo, Sequelize, Docker
  * CircleCI:
  * Expo:
