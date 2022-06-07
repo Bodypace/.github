@@ -6,8 +6,6 @@
 
 ## What Bodypace is
 
-This should be the place in which you connect all your health information gathering devices and software, where you enter all your health related data, where you control how that data should be stored and with who shared, where you or somobody else or algoritm analyses it.
-
 ### Open-source platform for everything health related
 
   - **Data** (Entered manually or via variuos integrations): **Gathering**, **Storing**, **Managing**, **Sharing**
