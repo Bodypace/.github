@@ -54,23 +54,32 @@
   - For education
   - [@ssurrealism](https://github.com/ssurrealism) wants to have something cool in his CV
 
-## Technical details
+## Other places
 
- * Code: [here](https://github/com/Bodypace)
- * Bodypace.org: Namecheap
- * Tasks: https://github.com/orgs/Bodypace/projects/1
- * Docs: https://github.com/Bodypace/Docs
- * Discord: https://discord.gg/EskKfge3dq
- * Twitch: https://www.twitch.tv/ssurrealism
- * Tech stack: [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [Sequelize](https://sequelize.org/), [Docker](https://www.docker.com/)
- * CircleCI: *soon if possible*
- * Sentry: *soon if possible*
- * Bitrise: *soon if possible*
- * Supabase: *soon if possible*
- * Expo: *soon if possible*
- * Postman: https://postman.com/bodypace
- * Azure: *soon if possible*
- * DockerHub: *soon if possible*
- * UI/UX Design: https://www.figma.com/file/8MHd4BSbKtJgd2iLiF6zd1/Main-Design?node-id=0%3A1
- * ER Diagram: https://lucid.app/lucidchart/08d8dac4-8d90-4c0c-90fd-cb2d3e942563/edit?invitationId=inv_201f7b36-c98c-41a5-ac92-d4bc83e4b453
- * Zeplin: *soon if possible*
+  - General
+  
+    - Progress: https://github.com/orgs/Bodypace/projects/1
+    - Docs: https://github.com/Bodypace/Docs
+    - Discussions: https://discord.gg/EskKfge3dq
+    - Streaming: https://www.twitch.tv/ssurrealism
+  
+  - Tech overview
+ 
+    - UI/UX Design: https://www.figma.com/file/8MHd4BSbKtJgd2iLiF6zd1/Main-Design?node-id=0%3A1
+    - ER Diagram: https://lucid.app/lucidchart/08d8dac4-8d90-4c0c-90fd-cb2d3e942563/edit?invitationId=inv_201f7b36-c98c-41a5-ac92-d4bc83e4b453
+    - Code: [here](https://github/com/Bodypace)
+    
+  - Tech details
+  
+    - Mobile app: [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [Sequelize](https://sequelize.org/), [Docker](https://www.docker.com/)
+    - Website: [Namecheap](https://www.namecheap.com/)
+    - Bitrise: *soon if possible*
+    - CircleCI: *soon if possible*
+    - Sentry: *soon if possible*
+    - Supabase: *soon if possible*
+    - Expo: *soon if possible*
+    - Postman: https://postman.com/bodypace
+    - Azure: *soon if possible*
+    - DockerHub: *soon if possible*
+    - Zeplin: *soon if possible*
+
