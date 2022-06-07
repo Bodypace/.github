@@ -35,7 +35,7 @@
  - Medicine should not be based on human interactions without alternatives as humans are faulty in many ways and our nature is not altruistic in cotrast to a machine, which can fully be.
  - Do not force a definition of what is optimal/better (above "good enough") to people. Rely on their opinions and only show them different steps along with destinations/results to which they lead. Provide them with informations. Let them pick.
 
-### What want to handle
+### What we want to handle
 
   - `devices/IoT`: smartphones, smart homes, smart watches, smart clothes, smart fridges, kitchen robots, air quality sensors, weighing scales, kitchen scales, computers, light sensors, blood pressure guagues, cameras,...
   - `diet`: water and food intake, calories, macros, microelements, superfoods, diet plans, products, recepies, shops, delivery,...
@@ -48,6 +48,11 @@
 
 ## Why open-source?
 
+  - To promote collaboration and integration of various software, hardware and medical solutions in opposition to becoming a yet another one proprietary alternative / competition
+  - For inclusivity
+  - For transparency
+  - For education
+  - [@ssurrealism](https://github.com/ssurrealism) wants to have something cool in his CV
 
 ## Technical details
 
