@@ -63,23 +63,24 @@
     - Discussions: https://discord.gg/EskKfge3dq
     - Streaming: https://www.twitch.tv/ssurrealism
   
-  - Tech overview
+  - Tools
  
     - UI/UX Design: https://www.figma.com/file/8MHd4BSbKtJgd2iLiF6zd1/Main-Design?node-id=0%3A1
     - ER Diagram: https://lucid.app/lucidchart/08d8dac4-8d90-4c0c-90fd-cb2d3e942563/edit?invitationId=inv_201f7b36-c98c-41a5-ac92-d4bc83e4b453
-    - Code: here
-    
-  - Tech details
-  
-    - Mobile app: [React](https://reactjs.org/), [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), [Sequelize](https://sequelize.org/), [Docker](https://www.docker.com/)
-    - Website: [Namecheap](https://www.namecheap.com/)
+    - Postman: https://postman.com/bodypace    
     - Bitrise: *soon if possible*
     - CircleCI: *soon if possible*
     - Sentry: *soon if possible*
-    - Supabase: *soon if possible*
+    - Firebase: *soon if possible*
     - Expo: *soon if possible*
-    - Postman: https://postman.com/bodypace
     - Azure: *soon if possible*
     - DockerHub: *soon if possible*
     - Zeplin: *soon if possible*
-
+    - Github codespaces: *soon if possible*
+    - Dot-env vault: *soon if possible*
+  
+  - Tech details
+  
+    - Mobile app: [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), 
+    - Server: FeathersJS, Node.js, [Sequelize](https://sequelize.org/), [Docker](https://www.docker.com/), 
+    - Website: [Namecheap](https://www.namecheap.com/), [React](https://reactjs.org/), *in progress*
