@@ -77,7 +77,7 @@
     - DockerHub: *soon if possible*
     - Zeplin: *soon if possible*
     - Github codespaces: *soon if possible*
-    - Dot-env vault: *soon if possible*
+    - Dotenv-vault: *soon if possible*
   
   - Tech details
   
